@@ -1,11 +1,11 @@
-# Practica4
-*ANÁLISIS DE NODOS* 
+# Práctica 4
+# *TEOREMA DE SUPERPOSICIÓN* 
 
 ## *PLANTEAMIENTO DEL PROBLEMA*
 Para realizar cualquier tipo de cálculo en un circuito es necesario conocer los voltajes y corrientes en cada uno de los elementos, para esto recurrimos a las Leyes de voltaje de Kirchhoff, que nos brinda diferentes métodos de análisis, entre ellos está el análisis de nodos. Pero, para comprender esto primero tendremos que comprobarlo para conocer que tan eficiente resulta ser dentro de nuestros cálculos requeridos.
 
 ## *OBJETIVO:*
-Demostrar experimentalmente al análisis de nodos  a través de las leyes de Kirchhoff para comprobar la efectividad de este método.
+Comprobar experimentalmente el Teorema de Superposición
 
 
 ## *LISTA DE MATERIALES:*
@@ -13,13 +13,12 @@ Demostrar experimentalmente al análisis de nodos  a través de las leyes de Kir
 
 | Cantidad | Material de Equipo |
 | ------------- | ------------- |
-| 1  | Fuente de voltaje de C.D |
+| 1  | Fuente de voltaje de C.D. |
 | 1  | Multímetros digitales |
-|  1 | Resistor de 1,8k  |
-|  1 | Resistores de 470  |
-| 1 | Resistor de 1,5k  |
-| 1  | Resistor de 3,9k  |
-|  1  | Resistor    2,2k  |
+|  1 | Resistor de 1k  |
+|  1 | Resistor de 2.2k  |
+|  1 | Resistor de 820k  |
+|  1 | Resistor de 470k  |
 | 1  | Protoboard      |
 
 ## *MARCO TEÓRICO*
@@ -33,23 +32,23 @@ Demostrar experimentalmente al análisis de nodos  a través de las leyes de Kir
 
 Fig.4. Circuito para el análisis de nodos
 
-2. Mida cada uno de los voltajes de nodo y anote los resultados en la tabla
- 
- 
-3. Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito
-de la figura , obteniendo los valores de los voltajes de nodo. Anote los resultados en
-la tabla.
+2. Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
+3. Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
-4. Compare los valores de la tabla y realice sus conclusiones.
-
+4. Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
 ## *TABULACIÓN DE DATOS*
-|NODO| Resultados Analíticos |Resultados Experimentales|
+|Voltaje Total (Va)| Voltaje (Va)cuando V2=0 |RVoltaje (Va)cuando V1=0|
 | ------------- | ------------- | ------------- |
-| 1  | 2,8194 | 2,82 |
-| 2  | 4,8016 | 4,80 |
+|Calculado|Medido|Calculado|Medido|Calculado|Medido|
+| ------------- | ------------- | ------------- |
+| 999 | 999 | 999 | 999 | 999 | 999 |
+| 999 | 999 | 999 | 999 | 999 | 999 |
+TABLA I. Medición de voltaje aplicando superposición
 
+
+TABLA II. Medición de corriente aplicando superposición
 
 ## *ANÁLISIS DE RESULTADOS*
 En general los resultados de las mediciones nunca serán exactas, a pesar del máximo cuidado que se tenga en el momento de realizar cada una de ellas, no es posible expresar el reultado como exacto, es por esto que a continuación se ralizará una tabla donde se muestre  el error relativo de cada valor obtenido:

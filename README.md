@@ -27,7 +27,7 @@ Comprobar experimentalmente el Teorema de Superposición
 ## *PROCEDIMIENTO*
 1. Implemente el siguiente circuito que se muestra en la figura:
 
-![alt text](https://github.com/Kevi7k/Practica3/blob/master/Im%C3%A1genes/Diagrama1.png)
+
 
 Fig.4. Circuito para el análisis de nodos
 
@@ -62,11 +62,11 @@ En general los resultados de las mediciones nunca serán exactas, a pesar del m�
 
 ## *DIAGRAMA*
 
-![alt text](https://github.com/Kevi7k/Practica3/blob/master/Im%C3%A1genes/Diagrama%205.png)
+![alt text]()
 
 Fig.5. Circuito Simulado en DCAClab
 
-![alt text](https://github.com/Kevi7k/Practica3/blob/master/Im%C3%A1genes/Circuito_Simulado.jpg)
+![alt text]()
 
 Fig.6. Circuito Simulado en TinkerCAD
 

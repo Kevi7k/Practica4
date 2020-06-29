@@ -40,7 +40,6 @@ Fig.4. Circuito para el análisis de nodos
 
 ## *TABULACIÓN DE DATOS*
 |Voltaje Total (Va)| Voltaje (Va)cuando V2=0 |RVoltaje (Va)cuando V1=0|
-| ------------- | ------------- | ------------- |
 |Calculado|Medido|Calculado|Medido|Calculado|Medido|
 | ------------- | ------------- | ------------- |
 | 999 | 999 | 999 | 999 | 999 | 999 |

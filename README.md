@@ -40,13 +40,17 @@ Fig.4. Circuito para el análisis de nodos
 
 ## *TABULACIÓN DE DATOS*
 
-|Voltaje Total (Va)| Voltaje (Va)cuando V2=0 |RVoltaje (Va)cuando V1=0|
-| ------------- | ------------- | ------------- |
-| 999 | 999 | 999 | 999 | 999 | 999 |
-| 999 | 999 | 999 | 999 | 999 | 999 |
+|Tipo de dato|Voltaje Total (Va)| Voltaje (Va)cuando V2=0 |RVoltaje (Va)cuando V1=0|
+| ------------- | ------------- | ------------- | ------------- |
+| Calculado | 999 | 999 | 999 |
+| Medido | 999 | 999 | 999 |
 
 TABLA I. Medición de voltaje aplicando superposición
 
+|Tipo de dato|Corriente Total (Va)| Corriente (Ix) cuando V2=0 |Corriente (Ix) cuando V1=0|
+| ------------- | ------------- | ------------- | ------------- |
+| Calculado | 999 | 999 | 999 |
+| Medido | 999 | 999 | 999 |
 
 TABLA II. Medición de corriente aplicando superposición
 

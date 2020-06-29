@@ -1,5 +1,5 @@
-# Práctica 4: *TEOREMA DE SUPERPOSICIÓN*
-
+# Práctica 4
+# *TEOREMA DE SUPERPOSICIÓN*
 ## *PLANTEAMIENTO DEL PROBLEMA*
 Para realizar cualquier tipo de cálculo en un circuito es necesario conocer los voltajes y corrientes en cada uno de los elementos, para esto recurrimos a las Leyes de voltaje de Kirchhoff, que nos brinda diferentes métodos de análisis, entre ellos está el análisis de nodos. Pero, para comprender esto primero tendremos que comprobarlo para conocer que tan eficiente resulta ser dentro de nuestros cálculos requeridos.
 

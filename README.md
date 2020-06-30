@@ -76,7 +76,7 @@ Utilizamos principalmente laley de Ohm, conociendo que su fórmula es I=V/R
 
 donde: 
 
-       Intensidad=Amperio (A)
+       Intensidad de Corriente=Amperio (A)
 
        Voltaje=Voltio (V)
 

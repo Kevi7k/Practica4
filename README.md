@@ -21,6 +21,27 @@ Comprobar experimentalmente el Teorema de Superposición
 | 1  | Protoboard      |
 
 ## *MARCO TEÓRICO*
+El teorema de la superposicion se puede utilizar tanto en AC como en DC , para poder determinar si se puede aplicar este método debemos tomar en cuenta que solo es aplicable para circuitos lineales , que estan conformados por componentes en las cuales la corriente es directamente proporcional a la tensión de sus terminales.
+
+Este método nos ayuda a calcular tanto como voltajes , intensidades en las cuales halla varias fuentes de energía (fuentes de voltaje, fuentes de corrientes) y para obtener el resultado de este procedimiento se puede hallar sumando la tensión del circuito a cada una de las fuentes (independientes) por separado.
+
+Fig 1.
+
+Los pasos a seguir son los siguientes:
+
+1) Se quitan las todas las fuentes excepto una, tomar en cuenta que si anulamos un voltaje este se convierte en corto circuito y si anulamos una corriente se hace un circuito abierto
+
+Fig 2.
+
+
+Fig 3.
+
+
+2) Se calcula el voltaje y intensidades solo con la fuente que no se quito.
+
+3) Se repiten los pasos 1 y 2 con cada fuente.
+
+4) Se suman las respuestas de cada fuente (Tomar en cuenta los signos con lo que se desplaza la corriente , en algunos casos puede restarse)
 
 
 

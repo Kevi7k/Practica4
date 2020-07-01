@@ -108,7 +108,6 @@ Esta ecuación se cumple siempre y cuando sea de solamente una malla, es decir l
 
 I(salida)=I(entrada)
 
-DIAGRAMA
 
 ## *EXPLICACIÓN DEL CIRCUITO*
 

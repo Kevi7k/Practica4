@@ -25,16 +25,21 @@ El teorema de la superposicion se puede utilizar tanto en AC como en DC , para p
 
 Este método nos ayuda a calcular tanto como voltajes , intensidades en las cuales halla varias fuentes de energía (fuentes de voltaje, fuentes de corrientes) y para obtener el resultado de este procedimiento se puede hallar sumando la tensión del circuito a cada una de las fuentes (independientes) por separado.
 
-Fig 1.
+![alt text](https://github.com/Kevi7k/Practica4/blob/master/Img/Fig1.png)
+
+Fig 1. Superposición
 
 Los pasos a seguir son los siguientes:
 
 1) Se quitan las todas las fuentes excepto una, tomar en cuenta que si anulamos un voltaje este se convierte en corto circuito y si anulamos una corriente se hace un circuito abierto
 
-Fig 2.
+![alt text](https://github.com/Kevi7k/Practica4/blob/master/Img/Voltaje%20apagado.png)
 
+Fig 2. Voltaje transformado
 
-Fig 3.
+![alt text](https://github.com/Kevi7k/Practica4/blob/master/Img/Corriente%20apagada.png)
+
+Fig 3. Corriente transformada
 
 
 2) Se calcula el voltaje y intensidades solo con la fuente que no se quito.

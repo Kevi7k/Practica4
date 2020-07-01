@@ -88,6 +88,27 @@ Fig.5. Circuito Simulado en DCAClab
 
 Fig.6. Circuito Simulado en TinkerCAD
 
+## *Ecuaciones*
+
+Las ecuaciones que vamos a utilizar para este tema, prácticamente son las mismas de temas anteriores.Lo único que cambia es la metodología al momento de resolver, como los pasos a seguir que tenemos en el marco teórico:
+
+Ley de Ohm I=V/R
+
+Intensidad=Amperio (A)
+
+Voltaje=Voltio (V)
+
+Resistencia= Ohmio (omega)
+
+Una vez obtenido este modelo matemático podemos afirmar que se cumple la siguiente ley:
+
+V1+V2+V3+V4+...Vn=0
+
+Esta ecuación se cumple siempre y cuando sea de solamente una malla, es decir la sumatoria de voltajes dentro de una malla es igual a cero, afirmando eso se cumple otra ley que nos habla sobres las corrientes:
+
+I(salida)=I(entrada)
+
+DIAGRAMA
 
 ## *EXPLICACIÓN DEL CIRCUITO*
 

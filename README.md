@@ -120,9 +120,13 @@ TABLA IV. Cálculo de errores en mediciones de corriente
 ## *CONCLUSIONES*
 
 - A través de la comparación de los resultados obtenidos en la simulación y en los cálculos donde, al realizar la suma algebraica de cada una de las fuentes actuando por sí solas, se comprobó experimentalmente que en el circuito propuesto se cumple con el Teorema de Superposición.
+
 - Frente a la mediciones obtenidas en el laboratorio se obtuvieron ciertos errores como se puede visualizar en la Tabla III, el valor del error relativo porcentual de Va cuando V2=0 y cuando V1=0 son 0% y 0% respectivamente, mientras que el error del Voltaje total en "a" es 0%, valores sumamente pequeños considerados aceptables.
+
 - Respecto a la corriente Ix cuando V2=0 y v1=0, los errores obtenidos fueron de 0% y 0%. Y refiriéndonos a la corriente total Ix se obtuvo un error de 0%, sin embargo las mediciones obtenidas se aproximan mucho a los resultado que se calculó, por lo que consideramos a estos errores como insignificantes.
+
 - El Teorema de Superposición nos ha resultado una técnica muy práctica de utilizar cuando tenemos varias fuentes de voltaje y corriente en un mismo circuito, ya que nos simplifica los cálculos al considerar las fuentes de voltaje como corto circuitos y las fuentes de corriente como circuitos abiertos.
+
 
 ## *RECOMENDACIONES*
 - Se debe tomar en cuenta que cuando simulemos un circuito en el laboratorio virtual, tenemos que apagar la fuente de voltaje, más no asignarle el valor de "cero", ya que nuestros resultados pueden variar notablemente, lo que provocaría un error extremadamente grande.

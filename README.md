@@ -148,12 +148,17 @@ Charles K. Alexander, Matthew N. O. Sadiku, Fundamentos de circuitos eléctricos
 
 ## *ANEXOS*
 
-![alt text](https://github.com/Kevi7k/Practica4/blob/master/Img/Medicion1.jpeg)
+![alt text](https://github.com/Kevi7k/Practica4/blob/master/Img/Medicion%201.jpeg)
 
-![alt text]()
+Fig. 7. Mediciones 
 
-Fig. 7. Medicones
+![alt text](https://github.com/Kevi7k/Practica4/blob/master/Img/Medicion%202.jpeg)
 
+Fig. 8. Mediciones 
+
+![alt text](https://github.com/Kevi7k/Practica4/blob/master/Img/Medicion%203.jpeg)
+
+Fig. 9. Mediciones 
 
 
 

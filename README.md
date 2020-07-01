@@ -59,6 +59,7 @@ donde:
 1. Implemente el siguiente circuito que se muestra en la figura:
 
 ![alt text](https://github.com/Kevi7k/Practica4/blob/master/Img/Diagrama%201.jpg)
+
 Fig.4. Circuito para comprobar el teorema de Superposición
 
 2. Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
@@ -118,17 +119,20 @@ TABLA IV. Cálculo de errores en mediciones de corriente
 
 ## *CONCLUSIONES*
 
-- 
+- A través de la comparación de los resultados obtenidos en la simulación y en los cálculos donde, al realizar la suma algebraica de cada una de las fuentes actuando por sí solas, se comprobó experimentalmente que en el circuito propuesto se cumple con el Teorema de Superposición.
+- Frente a la mediciones obtenidas en el laboratorio se obtuvieron ciertos errores como se puede visualizar en la Tabla III, el valor del error relativo porcentual de Va cuando V2=0 y cuando V1=0 son 0% y 0% respectivamente, mientras que el error del Voltaje total en "a" es 0%, valores sumamente pequeños considerados aceptables.
+- Respecto a la corriente Ix cuando V2=0 y v1=0, los errores obtenidos fueron de 0% y 0%. Y refiriéndonos a la corriente total Ix se obtuvo un error de 0%, sin embargo las mediciones obtenidas se aproximan mucho a los resultado que se calculó, por lo que consideramos a estos errores como insignificantes.
+- El Teorema de Superposición nos ha resultado una técnica muy práctica de utilizar cuando tenemos varias fuentes de voltaje y corriente en un mismo circuito, ya que nos simplifica los cálculos al considerar las fuentes de voltaje como corto circuitos y las fuentes de corriente como circuitos abiertos.
 
 ## *RECOMENDACIONES*
+- Se debe tomar en cuenta que cuando simulemos un circuito en el laboratorio virtual, tenemos que apagar la fuente de voltaje, más no asignarle el valor de "cero", ya que nuestros resultados pueden variar notablemente, lo que provocaría un error extremadamente grande.
 
-- Es necesario asegurar los valores que asignamos tanto a las fuentes de voltaje como a las resistencias, ya que se suele cometer errores con las unidades de medida, de igual forma que la conexión esté bien hecha para que las mediciones sean lo más exactas posibles.
+- Al tener bien definido el concepto de superposición y los conceptos de las leyes más básicas, se nos facilitará realizar con mejor autonomía la práctica e identificar los errores de por medio que se pueden presentar.
 
-- Llevar claro el concepto de esta ley de nodos, para realizar de manera correcta la práctica.
+- Es necesario verificar los valores que asignamos a las fuentes de voltaje como a resistencias, ya que se suele cometer errores con las unidades de medida, de igual forma que la conexión esté bien hecha para que las mediciones sean lo más exactas posibles.
 
-- Tomar en cuenta sobre el peligro que puede ocasionar estos voltajes y la mala utilización de las resistencias.
+- Para la obtención de medidas de corrientes y voltajes, debemos realizar bien la conexión de nuestro multímetro, es decir, ser estricto en cuanto a la conexión del positivo y negativo ya que si no lo colocamos bien, probablemente obtengamos resultados diferentes a los solicitados, que pueden afectar a cálculos secundarios.
 
-- Para el cálculo de corrientes y voltajes, debemos realizar bien la conexión de nuestro multímetro, ya que, si no lo colocamos bien, podemos quemarlo y nos empezará a dar resultados erróneos.
 
 ## *CRONOGRAMA*
 

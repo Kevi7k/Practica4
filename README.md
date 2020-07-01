@@ -103,17 +103,17 @@ En general los resultados de las mediciones nunca serán exactas, a pesar del m�
 
 |Voltaje (Va)| Resultados Analíticos |Resultados Experimentales|%Error|
 | ------------- | ------------- | ------------- | ------------- |
-| Cuando V2=0 |  00 | 00 | 0%|
-| Cuando V1=0 | 00| 00 | 0% |
-| Voltaje total | 00| 00 | 0% |
+| Cuando V2=0 |  00 | 7,48 [V] | 0%|
+| Cuando V1=0 | 00| -6,53 [V] | 0% |
+| Voltaje total | 00| 952 [mV] | 0% |
 
 TABLA III. Cálculo de errores en mediciones de voltaje
 
 |Corriente (Ix)| Resultados Analíticos |Resultados Experimentales|%Error|
 | ------------- | ------------- | ------------- | ------------- |
-| Cuando V2=0 |  00 | 00 | 0%|
-| Cuando V1=0 | 00| 00 | 0% |
-|Corriente total | 00| 00 | 0% |
+| Cuando V2=0 |  00 | 0 [A] | 0%|
+| Cuando V1=0 | 00| 25,5 [mA] | 0% |
+|Corriente total | 00| 25,5 [mA] | 0% |
 
 TABLA IV. Cálculo de errores en mediciones de corriente
 

@@ -73,14 +73,14 @@ Fig.4. Circuito para comprobar el teorema de Superposición
 |Tipo de dato|Voltaje Total (Va)| Voltaje (Va)cuando V2=0 |Voltaje (Va)cuando V1=0|
 | ------------- | ------------- | ------------- | ------------- |
 | Calculado | 999 | 999 | 999 |
-| Medido | 999 | 999 | 999 |
+| Medido | 952[mV] | 7,48[V] | -6,53[V] |
 
 TABLA I. Medición de voltaje aplicando superposición
 
 |Tipo de dato|Corriente Total (Ix)| Corriente (Ix) cuando V2=0 |Corriente (Ix) cuando V1=0|
 | ------------- | ------------- | ------------- | ------------- |
 | Calculado | 999 | 999 | 999 |
-| Medido | 999 | 999 | 999 |
+| Medido | 25,5[mA] | 0[A] | 25,5[mA] |
 
 TABLA II. Medición de corriente aplicando superposición
 

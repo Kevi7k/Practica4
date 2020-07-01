@@ -48,17 +48,6 @@ Fig 3. Corriente transformada
 
 4) Se suman las respuestas de cada fuente (Tomar en cuenta los signos con lo que se desplaza la corriente , en algunos casos puede restarse)
 
-## *ECUACIONES*
-
-Utilizamos principalmente laley de Ohm, conociendo que su fórmula es I=V/R
-
-donde: 
-
-       Intensidad de Corriente=Amperio (A)
-
-       Voltaje=Voltio (V)
-
-       Resistencia= Ohmio (omega)
 
 ## *PROCEDIMIENTO*
 1. Implemente el siguiente circuito que se muestra en la figura:

@@ -77,14 +77,14 @@ Fig.4. Circuito para comprobar el teorema de Superposición
 
 |Tipo de dato|Voltaje Total (Va)| Voltaje (Va)cuando V2=0 |Voltaje (Va)cuando V1=0|
 | ------------- | ------------- | ------------- | ------------- |
-| Calculado | 999 | 999 | 999 |
+| Calculado | 959[mV] | 7,479[V] | 6,52[V] |
 | Medido | 952[mV] | 7,48[V] | -6,53[V] |
 
 TABLA I. Medición de voltaje aplicando superposición
 
 |Tipo de dato|Corriente Total (Ix)| Corriente (Ix) cuando V2=0 |Corriente (Ix) cuando V1=0|
 | ------------- | ------------- | ------------- | ------------- |
-| Calculado | 999 | 999 | 999 |
+| Calculado | 25,51[mA] | 0[A] | 25,51[mA] |
 | Medido | 25,5[mA] | 0[A] | 25,5[mA] |
 
 TABLA II. Medición de corriente aplicando superposición
@@ -112,17 +112,17 @@ En general los resultados de las mediciones nunca serán exactas, a pesar del m�
 
 |Voltaje (Va)| Resultados Analíticos |Resultados Experimentales|%Error|
 | ------------- | ------------- | ------------- | ------------- |
-| Cuando V2=0 |  00 | 7,48 [V] | 0%|
-| Cuando V1=0 | 00| -6,53 [V] | 0% |
-| Voltaje total | 00| 952 [mV] | 0% |
+| Cuando V2=0 | 7,479 [V] | 7,48 [V] | 0,013%|
+| Cuando V1=0 | 6,52 [V] | -6,53 [V] | 0,153% |
+| Voltaje total |959[mV] | 952 [mV] | 0,73% |
 
 TABLA III. Cálculo de errores en mediciones de voltaje
 
 |Corriente (Ix)| Resultados Analíticos |Resultados Experimentales|%Error|
 | ------------- | ------------- | ------------- | ------------- |
-| Cuando V2=0 |  00 | 0 [A] | 0%|
-| Cuando V1=0 | 00| 25,5 [mA] | 0% |
-|Corriente total | 00| 25,5 [mA] | 0% |
+| Cuando V2=0 |  0[A] | 0 [A] | 0 %|
+| Cuando V1=0 |25,52[mA] | 25,5 [mA] | 0,078 % |
+|Corriente total | 25,52[mA]| 25,5 [mA] | 0,078 % |
 
 TABLA IV. Cálculo de errores en mediciones de corriente
 
@@ -130,9 +130,9 @@ TABLA IV. Cálculo de errores en mediciones de corriente
 
 - A través de la comparación de los resultados obtenidos en la simulación y en los cálculos donde, al realizar la suma algebraica de cada una de las fuentes actuando por sí solas, se comprobó experimentalmente que en el circuito propuesto se cumple con el Teorema de Superposición.
 
-- Frente a la mediciones obtenidas en el laboratorio se obtuvieron ciertos errores como se puede visualizar en la Tabla III, el valor del error relativo porcentual de Va cuando V2=0 y cuando V1=0 son 0% y 0% respectivamente, mientras que el error del Voltaje total en "a" es 0%, valores sumamente pequeños considerados aceptables.
+- Frente a la mediciones obtenidas en el laboratorio se obtuvieron ciertos errores como se puede visualizar en la Tabla III, el valor del error relativo porcentual de Va cuando V2=0 y cuando V1=0 son 0,013% y 0,153% respectivamente, mientras que el error del Voltaje total en "a" es 0,73%, valores sumamente pequeños considerados aceptables.
 
-- Respecto a la corriente Ix cuando V2=0 y v1=0, los errores obtenidos fueron de 0% y 0%. Y refiriéndonos a la corriente total Ix se obtuvo un error de 0%, sin embargo las mediciones obtenidas se aproximan mucho a los resultado que se calculó, por lo que consideramos a estos errores como insignificantes.
+- Respecto a la corriente Ix cuando V2=0 y v1=0, los errores obtenidos fueron de 0% y 0,078%. Y refiriéndonos a la corriente total Ix se obtuvo un error de 0,078%, sin embargo las mediciones obtenidas se aproximan mucho a los resultado que se calculó, por lo que consideramos a estos errores como insignificantes.
 
 - El Teorema de Superposición nos ha resultado una técnica muy práctica de utilizar cuando tenemos varias fuentes de voltaje y corriente en un mismo circuito, ya que nos simplifica los cálculos al considerar las fuentes de voltaje como corto circuitos y las fuentes de corriente como circuitos abiertos.
 
@@ -168,6 +168,10 @@ Fig. 8. Mediciones(V1=0)
 ![alt text](https://github.com/Kevi7k/Practica4/blob/master/Img/Medicion%203.jpeg)
 
 Fig. 9. Mediciones 
+
+![alt text](https://github.com/Kevi7k/Practica4/blob/master/Img/Resolucion%20ejercicio.jpeg)
+
+Fig. 10. Resolución del ejercicio
 
 
 

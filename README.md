@@ -97,6 +97,10 @@ Fig.6. Circuito Simulado en TinkerCAD
 
 ## *EXPLICACIÓN DEL CIRCUITO*
 
+En nuestro circuito podemos evidenciar, dos fuentes de voltaje, de 20 V y de 12 V, que serán las que suministren energía al sistema. También contaremos con 4 resistencias, de 1000, 2200, 820 y 470 ohmios. Conectados dichos elementos como podemos evidenciar en nuestros diagramas. Nuestro primer elemento será nuestra fuente de voltaje de 20 V, del polo positivo de nuestra fuente de voltaje, tendremos nuestra resistencia de 1000 ohmios, de la cual tendremos dos resistencias, es decir que nuestra corriente se dividirá en dos. Nuestra primera resistencia resultante es la de 2200 ohmios, la cual saldrá a los polos negativos de las fuentes. La otra resistencia resultante será nuestra resistencia de 820 ohmios, de la cual luego calcularemos la caída de tensión, que tomaremos como Va, y de dicha resistencia tendremos otra división de corriente, la primera es en nuestra resistencia de 470 ohmios, que terminara en los polos negativos de nuestras fuentes, la cual calcularemos el paso de corriente y lo llamaremos Ix. Y, por último, también nuestra resistencia de 820 ohmios estará conectado al polo positivo de nuestra segunda fuente de voltaje. Y los polos negativos de nuestras fuentes estarán conectados entre sí. 
+
+Para nuestro teorema de superposición, podemos calcular los valores de Va e Ix, tomando dos casos distintos, el primer caso apagando nuestra segunda fuente y trabajando como si tuviéramos una sola fuente, y el segundo caso que será apagar nuestra primera fuente y trabajar como si solo tuviéramos una fuente. Al final, al tener nuestros resultados por separado, solo tendremos que sumar nuestros valores respectivos de Va e Ix y tendremos nuestros valores que estamos buscando.
+
 
 ## *ANÁLISIS DE RESULTADOS*
 En general los resultados de las mediciones nunca serán exactas, a pesar del máximo cuidado que se tenga en el momento de realizar cada una de ellas, no es posible expresar el reultado como exacto, es por esto que a continuación se ralizará una tabla donde se muestre  el error relativo de cada valor obtenido:

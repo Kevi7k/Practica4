@@ -43,7 +43,17 @@ Fig 3.
 
 4) Se suman las respuestas de cada fuente (Tomar en cuenta los signos con lo que se desplaza la corriente , en algunos casos puede restarse)
 
+## *ECUACIONES*
 
+Utilizamos principalmente laley de Ohm, conociendo que su fórmula es I=V/R
+
+donde: 
+
+       Intensidad de Corriente=Amperio (A)
+
+       Voltaje=Voltio (V)
+
+       Resistencia= Ohmio (omega)
 
 ## *PROCEDIMIENTO*
 1. Implemente el siguiente circuito que se muestra en la figura:
@@ -59,26 +69,19 @@ Fig.4. Circuito para comprobar el teorema de Superposición
 
 ## *TABULACIÓN DE DATOS*
 
-|Tipo de dato|Voltaje Total (Va)| Voltaje (Va)cuando V2=0 |RVoltaje (Va)cuando V1=0|
+|Tipo de dato|Voltaje Total (Va)| Voltaje (Va)cuando V2=0 |Voltaje (Va)cuando V1=0|
 | ------------- | ------------- | ------------- | ------------- |
 | Calculado | 999 | 999 | 999 |
 | Medido | 999 | 999 | 999 |
 
 TABLA I. Medición de voltaje aplicando superposición
 
-|Tipo de dato|Corriente Total (Va)| Corriente (Ix) cuando V2=0 |Corriente (Ix) cuando V1=0|
+|Tipo de dato|Corriente Total (Ix)| Corriente (Ix) cuando V2=0 |Corriente (Ix) cuando V1=0|
 | ------------- | ------------- | ------------- | ------------- |
 | Calculado | 999 | 999 | 999 |
 | Medido | 999 | 999 | 999 |
 
 TABLA II. Medición de corriente aplicando superposición
-
-## *ANÁLISIS DE RESULTADOS*
-En general los resultados de las mediciones nunca serán exactas, a pesar del máximo cuidado que se tenga en el momento de realizar cada una de ellas, no es posible expresar el reultado como exacto, es por esto que a continuación se ralizará una tabla donde se muestre  el error relativo de cada valor obtenido:
-|NODO| Resultados Analíticos |Resultados Experimentales|%Error|
-| ------------- | ------------- | ------------- | ------------- |
-| 1  |  00 | 00 | 0%|
-| 2  | 00| 00 | 0% |
 
 ## *DIAGRAMA*
 
@@ -90,21 +93,28 @@ Fig.5. Circuito Simulado en DCAClab
 
 Fig.6. Circuito Simulado en TinkerCAD
 
-## *ECUACIONES*
-
-Utilizamos principalmente laley de Ohm, conociendo que su fórmula es I=V/R
-
-donde: 
-
-       Intensidad de Corriente=Amperio (A)
-
-       Voltaje=Voltio (V)
-
-       Resistencia= Ohmio (omega)
-
 
 ## *EXPLICACIÓN DEL CIRCUITO*
 
+
+## *ANÁLISIS DE RESULTADOS*
+En general los resultados de las mediciones nunca serán exactas, a pesar del máximo cuidado que se tenga en el momento de realizar cada una de ellas, no es posible expresar el reultado como exacto, es por esto que a continuación se ralizará una tabla donde se muestre  el error relativo de cada valor obtenido:
+
+|Voltaje (Va)| Resultados Analíticos |Resultados Experimentales|%Error|
+| ------------- | ------------- | ------------- | ------------- |
+| Cuando V2=0 |  00 | 00 | 0%|
+| Cuando V1=0 | 00| 00 | 0% |
+| Voltaje total | 00| 00 | 0% |
+
+TABLA III. Cálculo de errores en mediciones de voltaje
+
+|Corriente (Ix)| Resultados Analíticos |Resultados Experimentales|%Error|
+| ------------- | ------------- | ------------- | ------------- |
+| Cuando V2=0 |  00 | 00 | 0%|
+| Cuando V1=0 | 00| 00 | 0% |
+|Corriente total | 00| 00 | 0% |
+
+TABLA IV. Cálculo de errores en mediciones de corriente
 
 ## *CONCLUSIONES*
 

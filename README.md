@@ -1,10 +1,10 @@
 # Práctica 4
 # *TEOREMA DE SUPERPOSICIÓN*
 ## *PLANTEAMIENTO DEL PROBLEMA*
-Para realizar cualquier tipo de cálculo en un circuito es necesario conocer los voltajes y corrientes en cada uno de los elementos, para esto recurrimos a las Leyes de voltaje de Kirchhoff, que nos brinda diferentes métodos de análisis, entre ellos está el análisis de nodos. Pero, para comprender esto primero tendremos que comprobarlo para conocer que tan eficiente resulta ser dentro de nuestros cálculos requeridos.
+Se han observado diferentes técnicas para la resolución de circuitos, entre ellos el análisis nodal y el análisis de mallas, todo esto bajo la aplicación de las Leyes de Kricchoff y la Ley de Ohm. Pero cuando en un circuito encontramos más de dos fuentes de voltajes, ya sea de corriente, de voltaje o ambas, el cálculo de voltaje o corriente en cada uno de sus componentes resulta ser mucho más complicado. Es por esto que surge una nueva técnica, el teorema de la Superposición, del cual queremos conocer que tan efectivo es y para esto también tendremos que comprobarlo.
 
 ## *OBJETIVO:*
-Comprobar experimentalmente el Teorema de Superposición
+Comprobar experimentalmente el Teorema de Superposición, mediante la comapración de los resultados teóricos junto con los prácticos simulados en los laboratorios virtuales para clarificar los conceptos respecto a esta técnica.
 
 
 ## *LISTA DE MATERIALES:*
@@ -48,9 +48,8 @@ Fig 3.
 ## *PROCEDIMIENTO*
 1. Implemente el siguiente circuito que se muestra en la figura:
 
-
-
-Fig.4. Circuito para el análisis de nodos
+![alt text](https://github.com/Kevi7k/Practica4/blob/master/Img/Diagrama%201.jpg)
+Fig.4. Circuito para comprobar el teorema de Superposición
 
 2. Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 

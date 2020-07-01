@@ -86,11 +86,11 @@ TABLA II. Medición de corriente aplicando superposición
 
 ## *DIAGRAMA*
 
-![alt text]()
+![alt text](https://github.com/Kevi7k/Practica4/blob/master/Img/Diagrama%205.jpeg)
 
 Fig.5. Circuito Simulado en DCAClab
 
-![alt text]()
+![alt text](https://github.com/Kevi7k/Practica4/blob/master/Img/Diagrama%206.jpg)
 
 Fig.6. Circuito Simulado en TinkerCAD
 

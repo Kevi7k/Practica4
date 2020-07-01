@@ -150,11 +150,11 @@ Charles K. Alexander, Matthew N. O. Sadiku, Fundamentos de circuitos eléctricos
 
 ![alt text](https://github.com/Kevi7k/Practica4/blob/master/Img/Medicion%201.jpeg)
 
-Fig. 7. Mediciones 
+Fig. 7. Mediciones(V2=0)
 
 ![alt text](https://github.com/Kevi7k/Practica4/blob/master/Img/Medicion%202.jpeg)
 
-Fig. 8. Mediciones 
+Fig. 8. Mediciones(V1=0)
 
 ![alt text](https://github.com/Kevi7k/Practica4/blob/master/Img/Medicion%203.jpeg)
 

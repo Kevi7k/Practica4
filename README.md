@@ -149,7 +149,7 @@ TABLA IV. Cálculo de errores en mediciones de corriente
 
 ## *CRONOGRAMA*
 
-![alt text]()
+![alt text](https://github.com/Kevi7k/Practica4/blob/master/Cronograma/Cronograma_Pr%C3%A1ctica4.jpg)
 
 ## *BIBLIOGRAFÍA*
 

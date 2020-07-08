@@ -3,8 +3,14 @@
 ## *PLANTEAMIENTO DEL PROBLEMA*
 Se han observado diferentes técnicas para la resolución de circuitos, entre ellos el análisis nodal y el análisis de mallas, todo esto bajo la aplicación de las Leyes de Kircchoff y la Ley de Ohm. Pero cuando en un circuito encontramos más de dos fuentes de voltajes, ya sea de corriente, de voltaje o ambas, el cálculo de voltaje o corriente en cada uno de sus componentes resulta ser mucho más complicado. Es por esto que surge una nueva técnica, el teorema de la Superposición, del cual queremos conocer que tan efectivo es y para esto también tendremos que comprobarlo.
 
-## *OBJETIVO:*
-Comprobar experimentalmente el Teorema de Superposición, mediante la comapración de los resultados teóricos junto con los prácticos simulados en los laboratorios virtuales para clarificar los conceptos respecto a esta técnica.
+## *OBJETIVOS:*
+# Objetivo general
+- Diseñar un circuito electrico mediante la simulación en laboratorios virtuales para comprobar el teorema de Superposición.
+
+# Objetivos específico
+- Comprender la metodología de la Superposición para clarificar los conceptos previamente adquiridos en la teoría.
+- Comparar los resultados teóricos con los prácticos para encontrar el error entre mediciones obtenidas.
+
 
 
 ## *LISTA DE MATERIALES:*
@@ -134,6 +140,8 @@ TABLA III. Cálculo de errores en mediciones de voltaje
 |Corriente total | 25,52[mA]| 25,5 [mA] | 0,078 % |
 
 TABLA IV. Cálculo de errores en mediciones de corriente
+
+Luego de observar los resultados de analíticos y experimentales en la Tabla III. como en la Tabla IV. respecto al comportamiento de voltajes y corrientes en los elementos del circuito, que se obtienen de apagar cada una de las fuentes, se puede decir que los errores obtenidos son evidentemente valores pequeños. Lo que nos garantiza la correcta realización de los cálculos respecto a superposición.
 
 ## *CONCLUSIONES*
 

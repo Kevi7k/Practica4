@@ -73,7 +73,7 @@ Fig.4. Circuito para comprobar el teorema de Superposición
 |Tipo de dato|Voltaje Total (Va)| Voltaje (Va)cuando V2=0 |Voltaje (Va)cuando V1=0|
 | ------------- | ------------- | ------------- | ------------- |
 | Calculado | 959[mV] | 7,479[V] | 6,52[V] |
-| Medido | 952[mV] | 7,48[V] | -6,53[V] |
+| Medido | 952[mV] | 7,48[V] | 6,53[V] |
 
 TABLA I. Medición de voltaje aplicando superposición
 
@@ -128,7 +128,7 @@ En general los resultados de las mediciones nunca serán exactas, a pesar del m�
 |Voltaje (Va)| Resultados Analíticos |Resultados Experimentales|%Error|
 | ------------- | ------------- | ------------- | ------------- |
 | Cuando V2=0 | 7,479 [V] | 7,48 [V] | 0,013%|
-| Cuando V1=0 | 6,52 [V] | -6,53 [V] | 0,153% |
+| Cuando V1=0 | 6,52 [V] | 6,53 [V] | 0,153% |
 | Voltaje total |959[mV] | 952 [mV] | 0,73% |
 
 TABLA III. Cálculo de errores en mediciones de voltaje

@@ -190,5 +190,9 @@ Fig. 9. Mediciones
 
 Fig. 10. Resolución del ejercicio
 
+![alt text](https://github.com/Kevi7k/Practica4/blob/master/Img/Calculo%20de%20errores.jpeg)
+
+Fig. 11. Cálculo de los errores. 
+
 
 
